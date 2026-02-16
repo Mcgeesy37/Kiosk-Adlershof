@@ -17,7 +17,7 @@
     // Wenn Nummer noch nicht aktiv: showPhone=false
     phone: "+493067819265",
     showPhone: false,
-    whatsapp: "+493067819265",
+    whatsapp: "+4915213317375",
   };
 
   // 0=Mo ... 6=So
